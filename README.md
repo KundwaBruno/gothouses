@@ -37,7 +37,7 @@ yarn cypress
 
 This project is deployed on [vercel](https://vercel.com);
 
-Deployment URL: [House of Game of Thrones]()
+Deployment URL: [House of Game of Thrones](https://gothouses.vercel.app)
 
 ## Contributors
 
