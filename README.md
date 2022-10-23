@@ -41,4 +41,4 @@ Deployment URL: [House of Game of Thrones]()
 
 ## Contributors
 
-- Kundwa Bruno Materne
+- [Kundwa Bruno Materne](https://itskbm.com)
