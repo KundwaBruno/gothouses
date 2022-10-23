@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { Router, useRouter } from "next/router";
+import { useRouter } from "next/router";
 import { Dispatch, FC, SetStateAction, useState } from "react";
 import { AiOutlineSearch, AiOutlineClose } from "react-icons/ai";
 import { GiHamburgerMenu } from "react-icons/gi";

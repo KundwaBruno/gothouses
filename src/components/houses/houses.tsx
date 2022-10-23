@@ -25,10 +25,10 @@ const Header = () => {
             Houses of Game of Thrones
           </div>
           <div className='text-sm bg-black md:p-5 rounded-lg leading-6 '>
-            Explore the largest collection of <b>Game of Thrones</b> houses,
-            Lorem ipsum may be used as a placeholder before final copy is
-            available. Lorem.Lorem ipsum may be used as a placeholder before
-            final copy is available.
+            Explore the largest collection of Game of Thrones houses, Lorem
+            ipsum may be used as a placeholder before final copy is available.
+            Lorem.Lorem ipsum may be used as a placeholder before final copy is
+            available.
           </div>
         </div>
       </div>
