@@ -6,3 +6,5 @@ describe("HOME ( Index ) Page", () => {
     cy.get("div").contains("Houses of Game of Thrones");
   });
 });
+
+export {};
